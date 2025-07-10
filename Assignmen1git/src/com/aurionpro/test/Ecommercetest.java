@@ -12,7 +12,7 @@ public class Ecommercetest {
         Scanner sc = new Scanner(System.in);
         double amount = 0;
         int type = 0;
-        boolean wantsRefund = false;
+      //  boolean wantsRefund = false;
         String input;
         while(true) {
         while (true) {
